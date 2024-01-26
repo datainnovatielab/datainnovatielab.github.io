@@ -19,7 +19,7 @@ feature: sample-image-2.jpg
 </section><!-- /#table-of-contents -->
 
 
-Wij proberen zoveel mogelijk op en source te programmeren. Dit zijn onze open source projecten die te pip installen zijn via [pypi](https://pypi.org/manage/projects/) :
+Wij programmeren zoveel mogelijk open source! Dit zijn onze open source projecten die te pip installen zijn via [pypi](https://pypi.org/manage/projects/) :
 
 ---
 

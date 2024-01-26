@@ -8,14 +8,17 @@
 - title: Projecten
   url: /Projecten/
 
-- title: Presentaties
-  url: /presentaties/
-
 - title: Business Intelligence
   url: /BusinessIntelligence/
 
 - title: Data Science
   url: /DataScience/
+
+- title: No code/low code
+  url: /nolowcode/
+
+- title: Presentaties
+  url: /presentaties/
 
 - title: Software
   url: /software/

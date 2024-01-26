@@ -7,118 +7,35 @@ feature: sample-image-2.jpg
 ---
 
 
+De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de directies wat samen te vatten is in de activiteiten op het gebied van data en opslag tezamen met innovatie en modernisering. Wij organiseren dit in de toekomst centraal vanuit het Data en Innovatielab. De scope omvat de volgende aandachtsgebieden:
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
+• Het delen van kennis voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, de ontwikkeling van kennisproducten, en het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie.
 
+• Data Platform – Het zorgdragen voor een goede data opslag en toegang om taken efficiënt en betrouwbaar uit te voeren. Dit vormt het fundament om de hieronder genoemde onderdelen flexibel en kosteneffectief te beheren voor datagestuurde besluitvorming en beleidsdoelen;
 
-For an overview of citations of my papers, please view my [Google Scholar profile](https://scholar.google.com/citations?user=2fG38AkAAAAJ&hl=en).
+• Business Intelligence (BI) – Ontwikkelen van dashboards om tot snelle inzichten te komen uit de grote hoeveelheden (on)gestructureerde data sets en op basis hiervan informatie genereren voor beleidsdoelen in de vorm van rapportages en voorspellingen;
 
-## Selected Publications
+• Data Science - Ontdekken van patronen in grote hoeveelheden ongestructureerde teksten met tekstmining en/of op gestructureerde data sets op basis van sensorgegevens (IoT) tbv monitoren en voorspellen van prestaties van (deel)objecten en het ontwikkelen van rapportages. Daarnaast ook bijvoorbeeld het automatisch kwantificeren aan de hand van video en beeldmateriaal ter ondersteuning aan beleidsdoelen (Beeldherkenning). Tot slot het analyseren en ontdekken van patronen in workflows en processen door data te combineren met organisatorische gegeven (procesmining);
 
-1. Taskesen E, [**HNet: Graphical Hypergeometric Networks**](/papers/2020 - Taskesen et al - HNet Hypergeometric Networks.pdf). arXiv.org, 2020, arXiv:2005.04679
-1. Taskesen E, Huisman SMH, Mahfouz A, Krijthe JH, Ridder J, Stolpe A, Akker E, Verheagh W, Reinders MJT., [**MEREDITH: an integration method to refine cancer (sub)typing in a pan-cancer approach and multiple omics datasets**](/papers/2016 - Taskesen et al. - Pan-cancer subtyping in a 2D-map shows substructures that are driven by specific combinations of molecular char.pdf). Scientific Reports, 2016, IF: 5.578
-1. K. Watanabe, Taskesen E, A. van Bochoven, D. Posthuma, [**FUMA: Functional mapping and annotation of genetic associations**](/papers/FUMA_41467_2017_Article_1261.pdf). Nature Communications. 2017, IF: 13.092
-1. Taskesen E, Havermans M, van Lom K, Sanders MA, van Norden Y, Bindels E, Hoogenboezem R, Reinders MJ, Figueroa ME, Valk PJ, Löwenberg B, Melnick A, Delwel R. [**Two splice factor mutant leukemia subgroups uncovered at the boundaries of MDS and AML using combined gene expression and DNA-methylation profiling**](/papers/2014 - Taskesen et al - Two splice-factor mutant leukemia subgroups uncovered at the.pdf). Blood. 2014 Mar 25., IF: 10.452
-1. Taskesen E, Beekman R, de Ridder J, Wouters BJ, Peeters JK, Touw IP, Reinders MJ, Delwel R. [**HAT: hypergeometric analysis of tiling-arrays with application to promoter-GeneChip data**](/papers/2010 - Taskesen et al - HAT Hypergeometric Analysis of Tiling-arrays with application to promoter-GeneChip data.pdf). BMC Bioinformatics, IF: 2.672
+• No code/ Low code – Het gebruik van no code en low code ontwikkelingsplatforms biedt IenE de mogelijkheid om applicaties en workflows te ontwikkelen zonder diepgaande programmeerkennis. Met deze benaderingen kan DI-Lab snel en efficiënt oplossingen bouwen en aanpassen aan de specifieke behoeften. Dit vergroot de productiviteit en wendbaarheid omdat wij op deze manier niet volledig afhankelijk zijn van traditionele softwareontwikkelingscycli. De no code/low code ontwikkelingen zijn bij start niet direct gekoppeld aan het cloud platform.
 
----
+• ArcGIS/ ESRI - ArcGIS stelt ons in staat om locatiegegevens te begrijpen en te benutten voor een breed scala aan toepassingen zoals het formuleren en monitoren van beleid.  Het gebruik van Esri's ArcGIS-platform, in combinatie met Microsoft Azure biedt krachtige mogelijkheden voor het beheren, analyseren en visualiseren van ruimtelijke gegevens. 
 
 
-## 2020
+Projecten worden ontwikkeld binnen de kaders en richtlijnen die het Data en Innovatielab hiervoor hanteert. Deze scope beweegt mee met veranderingen in de vraag vanuit de business en het aanbod vanuit het vakgebied. Door de combinatie van deze speerpunten kunnen er nieuwe (data)technieken binnen IenW ontwikkeld worden en kunnen wij ondersteuning bieden in de transformatie naar een meer datagedreven organisatie.
 
-1. Taskesen E, [**HNet: Graphical Hypergeometric Networks**](/papers/2020 - Taskesen et al - HNet Hypergeometric Networks.pdf). arXiv.org, 2020, arXiv:2005.04679
 
----
+## Werkwijze
 
-## 2019
+Het Data en Innovatielab volgt het vastgestelde proces van innoveren, uniformeren en produceren waarbij het een belangrijke bijdrage levert aan het innoveren en uniformeren (standaardiseren). 
 
-1. Karlsson Linnér R,..., Taskesen E,...,Beauchamp JP. **Genome-wide association analyses of risk tolerance and risky behaviors in over 1 million individuals identify hundreds of loci and shared genetic influences**. Nat Genet. 2019 Feb;51(2):245-257. doi: 10.1038/s41588-018-0309-3. Epub 2019 Jan 14. PubMed PMID: 30643258; PubMed Central PMCID: PMC6713272.
+DI-Lab voert projecten uit die in een relatief kort tijdsbestek nieuwe technieken zichtbaar en voelbaar maken voor de opdrachtgever, inclusief wat ze kunnen betekenen voor het werk van IenW en de service voor de gebruiker van onze netwerken (innoveren). Het resultaat van deze projecten is een zogenaamd Proof of Concepts (PoC’s), Minimum Viable Product (MVP), een advies en/of een kennisproduct. Deze vormen een uitgangspunt voor verdere ontwikkeling binnen de IenE. 
 
----
 
-## 2018
-1. Taskesen E, Huisman SMH, Mahfouz A, Krijthe JH, de Ridder J, van de Stolpe A, van den Akker E, Verhaegh W, Reinders MJT. **Pan-cancer subtyping in a 2D-map shows substructures that are driven by specific combinations of molecular characteristics**. Sci Rep. 2018 Nov 23;8(1):17304. doi:10.1038/s41598-018-35518-w. PubMed PMID: 30470773; PubMed Central PMCID: PMC6251860
+Bij het uitvoeren van projecten experimenteert DI-Lab met nieuwe technieken en standaarden, zodat onderbouwde vragen voor ontbrekende functionaliteit in het huidige aanbod gesteld kunnen worden en bij gebleken geschiktheid kunnen leiden tot nieuwe standaard bouwstenen (uniformeren/ standaardiseren) en te helpen om deze uiteindelijk naar productie te krijgen.  
+Tot slot verspreidt DI-Lab actief de opgedane kennis en inspiratie op het gebied van data science door het geven van workshops, lezingen en opleidingen en het bieden van werkervaringsplaatsen.
 
----
+De werkwijze bij DI-Lab is agile, dat wil zeggen dat projecten zoveel mogelijk worden belegd in één van de scrum teams van DI-Lab. De werkzaamheden worden gestart met een kick-off en uitgevoerd in een aantal sprints met een refinementsessie, sprintplanning, retrospectives, tussentijdse demo’s en afgesloten met een eindpresentatie. Richtlijn is dat een PoC-project initieel niet meer dan 3 maanden mag kosten om tot een eerste resultaat te komen. Uitzonderingen zijn bijvoorbeeld projecten die worden uitgevoerd middels een inkoop op productbasis, een adviesproject waarin iemand van DI-Lab participeert in een projectteam van de opdrachtgever of evenementen met inhoudelijke inbreng over data science, al dan niet georganiseerd door DI-Lab.
 
-## 2017
 
-1. Taskesen E, A. Mishra, R. Ferrari, IFGC, J.H. Veldink, M.A. van Es, D. Geschwind, G. Smit, D. Posthuma, Y. Pijnenburg, **Joint analysis of genetic with epigenetic profiles reveals candidate markers in FTD-MND, and convergence in pathways**. Scientific Reports, 2017, IF: 4.874
-1. K. Watanabe, Taskesen E, A. van Bochoven, D. Posthuma, [**FUMA: Functional mapping and annotation of genetic associations**](/papers/FUMA_41467_2017_Article_1261.pdf). Nature Communications. 2017, IF: 13.092
-1. R. Karlsson Linnér,…, Taskesen E,…, Philipp D Koellinger, **An epigenome-wide association study of educational attainment**. Mol Psychiatry. 2017, IF: 13.204
-1. S. Sniekers,…, Taskesen E,…, Danielle Posthuma, [**Meta-Analysis On 78,308 Individuals Identifies 15 Novel Loci And 36 Novel Genes For Intelligence**](/papers/XXXX.pdf). Nature genetics, 2017, IF: 32.197
-1. A. R Hammerslag,…, Taskesen E,…, Danielle Posthuma, [**Genome-wide association analysis of insomnia identifies novel risk genes and genetic overlap with psychiatric and metabolic traits**](/papers/emss-72665.pdf). Nature genetics, 2017, IF: 32.197
 
----
-
-## 2016
-
-1. Taskesen E, Huisman SMH, Mahfouz A, Krijthe JH, Ridder J, Stolpe A, Akker E, Verheagh W, Reinders MJT., [**MEREDITH: an integration method to refine cancer (sub)typing in a pan-cancer approach and multiple omics datasets**](/papers/2016 - Taskesen et al. - Pan-cancer subtyping in a 2D-map shows substructures that are driven by specific combinations of molecular char.pdf). Scientific Reports, 2016, IF: 5.578
-1. Taskesen E and Reinders MJT, [**2D representation of transcriptomes by t-SNE exposes relatedness between human tissues**](/papers/2016 - Taskesen et al - 2D Representation of Transcriptomes by t-SNE Exposes Relatedness between Human Tissues.PDF). Plos One, 2016, IF: 3.234
-1. Taskesen E, Famili F, Brugman MH., Naber BEA., Fodde R, Staal FJT, [**High levels of canonical Wnt signaling lead to loss of stemness and increased differentiation in hematopoietic stem cells**](/papers/2016 - Taskesen et al - High levels of Canonical Wnt Signaling leads...pdf). Stem Cell Reports, 2016, IF: 7.023
-
----
-
-## 2015
-
-1. Taskesen E, Staal FJT and Reinders MJT, [**An integrated approach of gene expression and DNA-methylation profiles of WNT signaling genes uncovers novel prognostic markers in Acute Myeloid Leukemia**](/papers/2014 - Taskesen et al - An integrated approach of gene expression and....pdf). BMC Bioinformatics. 2015 Feb 23, IF: 2.672
-1. Taskesen E, Babaei S, Reinders MJT and Ridder J, [**Integration of Gene Expression and DNA-methylation Profiles Improves Molecular Subtype Classification in Acute Myeloid Leukemia**](/papers/2014 - Taskesen et al - Integration of gene expression and DNAmethylation improves....pdf). BMC Bioinformatics. 2015 Feb 23, IF: 2.672
-
----
-
-## 2014
-
-1. Taskesen E, Havermans M, van Lom K, Sanders MA, van Norden Y, Bindels E, Hoogenboezem R, Reinders MJ, Figueroa ME, Valk PJ, Löwenberg B, Melnick A, Delwel R. [**Two splice factor mutant leukemia subgroups uncovered at the boundaries of MDS and AML using combined gene expression and DNA-methylation profiling**](/papers/2014 - Taskesen et al - Two splice-factor mutant leukemia subgroups uncovered at the.pdf). Blood. 2014 Mar 25., IF: 10.452
-
----
-
-## 2013
-
-1. Taskesen E, …, B. Löwenberg. [**The value of allogeneic and autologous hematopoietic stem cell transplantation in prognostically favorable acute myeloid leukemia with double mutant CEBPA**](/papers/2013 - Taskesen et al - The value of allogeneic and autologous hematopoietic stem cell transplantation in prognostically favorable ac2.pdf). Blood. 2013 Aug 29;122(9):1576-82. doi: 10.1182/blood-2013-05-503847., IF: 10.452
-
----
-
-## 2012
-
-1. Taskesen E, Hoogeboezem R, Delwel R, Reinders MJT. [**Hypergeometric Analysis of Tiling-array and Sequence Data: Detection and Interpretation of Peaks**](/papers/2013 - Taskesen et al - HATSEQ.pdf). Advances and Applications in Bioinformatics and Chemistry. 25;6:55-62. doi:10.2147/AABC.S51271, IF: 2.672
-1. Bindels EM, Havermans M, Lugthart S, Erpelinck C, Wocjtowicz E, Krivtsov AV, Rombouts E, Armstrong SA, Taskesen E, Haanstra JR, Beverloo HB, Döhner H, Hudson WA, Kersey JH, Delwel R, Kumar AR. [**EVI1 is critical for the pathogenesis of a subset of MLL-AF9-rearranged AMLs**](/papers/Bindels et al. - 2012 - EVI1 is critical for the pathogenesis of a subset of MLL-AF9-rearranged AMLs.pdf). Blood, IF: 10.452
-1. Zebisch A, Wölfler A, Fried I, Wolf O, Lind K, Bodner C, Haller M, Drasche A, Pirkebner D, Matallanas D, Rath O, Blyth K, Delwel R, Taskesen E, Quehenberger F, Kolch W, Troppmair J, Sill H. [**Frequent loss of RAF kinase inhibitor protein expression in acute myeloid leukemia**](/papers/Zebisch et al - 2012 - Frequent loss of RAF kinase inhibitor protein expression.pdf). Leukemia, IF: 10.431
-1. Horos R, Ijspeert H, Pospisilova D, Sendtner R, Andrieu-Soler C, Taskesen E, Nieradka A, Cmejla R, Sendtner M, Touw IP, von Lindern M. [**Ribosomal deficiencies in Diamond-Blackfan anemia impair translation of transcripts essential for differentiation of murine and human erythroblasts**](/papers/Horos et al. - 2012 - Ribosomal deficiencies in Diamond-Blackfan anemia impair translation of transcripts essential for differentiation.pdf). Blood, IF: 10.452
-
----
-
-## 2011
-
-1. Beekman R, Valkhof M, Erkeland SJ, Taskesen E, Rockova V, Peeters JK, Valk PJ, Löwenberg B, Touw IP. [**Retroviral integration mutagenesis in mice and comparative analysis in human AML identify reduced PTP4A3 expression as a prognostic indicator**](/papers/Beekman et al. - 2011 - Retroviral integration mutagenesis in mice and comparative analysis in human AML identify reduced PTP4A3 express.pdf). PLoS One, IF: 3.234
-1. Meenhuis A, van Veelen PA, de Looper H, van Boxtel N, van den Berge IJ, Sun SM, Taskesen E, Stern P, de Ru AH, van Adrichem AJ, Demmers J, Jongen-Lavrencic M, Löwenberg B, Touw IP, Sharp PA, Erkeland SJ. [**MiR-17/20/93/106 promote hematopoietic cell expansion by targeting sequestosome 1-regulated pathways in mice**](/papers/Meenhuis et al. - 2011 - MiR-172093106 promote hematopoietic cell expansion by targeting sequestosome 1-regulated pathways in mice.pdf). Blood, IF: 10.452
-1. Smith LL, Yeung J, Zeisig BB, Popov N, Huijbers I, Barnes J, Wilson AJ, Taskesen E, Delwel R, Gil J, Van Lohuizen M, So CW. [**Functional crosstalk between Bmi1 and MLL/Hoxa9 axis in establishment of normal hematopoietic and leukemic stem cells**](/papers/Smith et al. - 2011 - Functional crosstalk between Bmi1 and MLLHoxa9 axis in establishment of normal hematopoietic and leukemic stem cel.pdf). Cell Stem Cell., IF: 23.563
-
----
-
-## 2010
-
-1. Taskesen E, Bullinger L, Corbacioglu A, Sanders MA, Erpelinck CA, Wouters BJ, van der Poel-van de Luytgaarde SC, Damm F, Krauter J, Ganser A, Schlenk RF, Löwenberg B, Delwel R, Döhner H, Valk PJ, Döhner K. [**Prognostic impact, concurrent genetic mutations, and gene expression features of AML with CEBPA mutations in a cohort of 1182 cytogenetically normal AML patients: further evidence for CEBPA double mutant AML as a distinctive disease entity**](/papers/2011 - Taskesen et al - Prognostic impact, concurrent genetic mutations, and gene expression features of AML with CEBPA mutations in a.pdf). Blood, IF: 10.452
-1. Taskesen E, Beekman R, de Ridder J, Wouters BJ, Peeters JK, Touw IP, Reinders MJ, Delwel R. [**HAT: hypergeometric analysis of tiling-arrays with application to promoter-GeneChip data**](/papers/2010 - Taskesen et al - HAT Hypergeometric Analysis of Tiling-arrays with application to promoter-GeneChip data.pdf). BMC Bioinformatics, IF: 2.672
-
----
-
-## 2007
-
-1. Taskesen E, Wessels LFA, van Vliet M, and Reinders MJT, **Novel approaches for cross-species subtype identification**. MSc. Thesis, pp. 26, Delft University of Technology, March 23 2007.
-
----
-
-## Bookchapters
-
-1. Erdogan Taskesen. (Dissertation, 2014, January 21). **Computational Biology in Acute Myeloid Leukemia with CEBPA Abnormalities**. Erasmus University Rotterdam. http://hdl.handle.net/1765/50368
-1. Taskesen E, Wouters BJ, and Delwel R. [**HAT: a novel statistical approach to discover functional regions in the genome**](/papers/2013 - Taskesen et al - Tiling Arrays.pdf). Springer Series (book Chapter). doi: 10.1007/978-1-62703-607-8.
-
----
