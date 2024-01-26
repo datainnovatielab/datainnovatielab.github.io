@@ -13,7 +13,6 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,28 +56,46 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 </head>
 <body>
 
-<h2>Animated Collapsibles</h2>
 
 <button class="collapsible">Kennisdeling</button>
 <div class="content">
-  <p>
+  <p><br>
 	Het delen van kennis voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, de ontwikkeling van kennisproducten, en het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie.
   </p>
 </div>
 
-<p>Collapsible Set:</p>
-<button class="collapsible">Open Section 1</button>
+
+<button class="collapsible">Data Platform</button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><br>
+	Het zorgdragen voor een goede data opslag en toegang om taken efficiënt en betrouwbaar uit te voeren. Dit vormt het fundament om de hieronder genoemde onderdelen flexibel en kosteneffectief te beheren voor datagestuurde besluitvorming en beleidsdoelen;
+  </p>
 </div>
-<button class="collapsible">Open Section 2</button>
+
+
+<button class="collapsible">Business Intelligence (BI)</button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><br>
+	Ontwikkelen van dashboards om tot snelle inzichten te komen uit de grote hoeveelheden (on)gestructureerde data sets en op basis hiervan informatie genereren voor beleidsdoelen in de vorm van rapportages en voorspellingen;
+  </p>
 </div>
-<button class="collapsible">Open Section 3</button>
+
+<button class="collapsible">Data Science</button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><br>
+	Ontdekken van patronen in grote hoeveelheden ongestructureerde teksten met tekstmining en/of op gestructureerde data sets op basis van sensorgegevens (IoT) tbv monitoren en voorspellen van prestaties van (deel)objecten en het ontwikkelen van rapportages. Daarnaast ook bijvoorbeeld het automatisch kwantificeren aan de hand van video en beeldmateriaal ter ondersteuning aan beleidsdoelen (Beeldherkenning). Tot slot het analyseren en ontdekken van patronen in workflows en processen door data te combineren met organisatorische gegeven (procesmining)
+</p>
 </div>
+
+
+<button class="collapsible">No code/ Low code</button>
+<div class="content">
+  <p><br>
+	Het gebruik van no code en low code ontwikkelingsplatforms biedt IenE de mogelijkheid om applicaties en workflows te ontwikkelen zonder diepgaande programmeerkennis. Met deze benaderingen kan DI-Lab snel en efficiënt oplossingen bouwen en aanpassen aan de specifieke behoeften. Dit vergroot de productiviteit en wendbaarheid omdat wij op deze manier niet volledig afhankelijk zijn van traditionele softwareontwikkelingscycli. De no code/low code ontwikkelingen zijn bij start niet direct gekoppeld aan het cloud platform.
+</p>
+</div>
+
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
@@ -102,23 +119,6 @@ for (i = 0; i < coll.length; i++) {
 
 
 
-
-
-### Data Platform
-
-Het zorgdragen voor een goede data opslag en toegang om taken efficiënt en betrouwbaar uit te voeren. Dit vormt het fundament om de hieronder genoemde onderdelen flexibel en kosteneffectief te beheren voor datagestuurde besluitvorming en beleidsdoelen;
-
-### Business Intelligence (BI)
-
-Ontwikkelen van dashboards om tot snelle inzichten te komen uit de grote hoeveelheden (on)gestructureerde data sets en op basis hiervan informatie genereren voor beleidsdoelen in de vorm van rapportages en voorspellingen;
-
-### Data Science
-
-Ontdekken van patronen in grote hoeveelheden ongestructureerde teksten met tekstmining en/of op gestructureerde data sets op basis van sensorgegevens (IoT) tbv monitoren en voorspellen van prestaties van (deel)objecten en het ontwikkelen van rapportages. Daarnaast ook bijvoorbeeld het automatisch kwantificeren aan de hand van video en beeldmateriaal ter ondersteuning aan beleidsdoelen (Beeldherkenning). Tot slot het analyseren en ontdekken van patronen in workflows en processen door data te combineren met organisatorische gegeven (procesmining);
-
-### No code/ Low code
-
-Het gebruik van no code en low code ontwikkelingsplatforms biedt IenE de mogelijkheid om applicaties en workflows te ontwikkelen zonder diepgaande programmeerkennis. Met deze benaderingen kan DI-Lab snel en efficiënt oplossingen bouwen en aanpassen aan de specifieke behoeften. Dit vergroot de productiviteit en wendbaarheid omdat wij op deze manier niet volledig afhankelijk zijn van traditionele softwareontwikkelingscycli. De no code/low code ontwikkelingen zijn bij start niet direct gekoppeld aan het cloud platform.
 
 
 
