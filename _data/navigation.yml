@@ -1,0 +1,21 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Curriculum Vitae
+  url: /cv/
+
+- title: Publications
+  url: /publications/
+
+- title: Blogs
+  url: /blogs/
+
+- title: Scientific Posters
+  url: /posters/
+
+- title: Software
+  url: /software/
+
+- title: Contact
+  url: /contact/
