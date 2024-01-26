@@ -35,11 +35,11 @@ op verschillende aandachtsgebieden die IenW direct helpen.
         </td>
         <td>
             <img src="https://media.licdn.com/dms/image/D4E03AQG220xFt-JgFA/profile-displayphoto-shrink_200_200/0/1676230383427?e=1711584000&v=beta&t=8OlwjQPDTQh2YMGg0cDY0ChQYDSCJaHcZzKpfTWorOA" alt="Afbeelding 2" width="100"><br>
-            Angie Munshi
+            <a href="https://www.linkedin.com/in/angie-munshi/" target="_blank">Angie Munshi</a>
         </td>
         <td>
             <img src="https://media.licdn.com/dms/image/C4D03AQHdwpcee3eTZQ/profile-displayphoto-shrink_200_200/0/1516956560558?e=1711584000&v=beta&t=_DEmLX_0l24BBzUZuiJAkWaQOClV5EhEfaCv0JwxWlo" alt="Afbeelding 3" width="100"><br>
-            Tijn Schouten
+            <a href="https://www.linkedin.com/in/tijnschouten/" target="_blank">Tijn Schouten</a>
         </td>
     </tr>
 
