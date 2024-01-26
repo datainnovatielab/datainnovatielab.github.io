@@ -57,10 +57,10 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 <body>
 
 
-<button class="collapsible">Kennisdeling</button>
+<button class="collapsible">Kennisdeling en Onderzoek</button>
 <div class="content">
   <p><br>
-	Het delen van kennis voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, de ontwikkeling van kennisproducten, en het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie.
+	Het delen van kennis is enerzijds voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, daarnaast zullen wij vanuit het Data en Innovatielab ook aan kennisproducten werken, denk aan Hackatons maar ook het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie. Binnen het team hebben wij ook een onderzoekstak waar wij samen met Hogescholen en Universiteiten onderzoek doen naar relevante vraagstukken binnen de kaders van IenW.
   </p>
 </div>
 
@@ -118,8 +118,9 @@ for (i = 0; i < coll.length; i++) {
 </html>
 
 
-
-
+<br> 
+<img src="figs/focus_dilab.png" width="100%" border="0" alt="">
+<br>
 
 
 ## Werkwijze
