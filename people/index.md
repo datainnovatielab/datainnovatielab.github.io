@@ -8,14 +8,7 @@ Het Data en Innovatielab is een dynamisch team van vaste medewerkers, Trainnees,
 Met team werken wij aan use-cases in de focus gebieden van Business Intelligence, Data Science, No code/Low code maar ook wetenschappelijk onderzoek
 op verschillende aandachtsgebieden die IenW direct helpen.
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table with Images and Names</title>
-</head>
-<body>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
