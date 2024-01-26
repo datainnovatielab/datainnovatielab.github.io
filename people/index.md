@@ -104,9 +104,6 @@ op verschillende aandachtsgebieden die IenW direct helpen.
     </tr>
 </table>
 
-</body>
-</html>
-
 
 </body>
 </html>
