@@ -18,7 +18,7 @@ Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees
 </head>
 <body>
 
-<table border="1">
+<table border="0">
     <tr>
         <td>
             <img src="photos/people_logo.jpg" alt="Afbeelding 1" width="100"><br>
