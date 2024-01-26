@@ -8,17 +8,6 @@ feature: sample-image-2.jpg
 
 
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
-
 Wij programmeren zoveel mogelijk open source! Om zoveel mogelijk te uniformeren maken wij gebruik van de IenW programmeer standaarden die bij RWS Datalab ontwikkeld zijn. Hierdoor kan code en kennis gemakkelijk onderling uitgewisseld worden omdat dezelfde style en randvoorwaarden gebruikt worden.
 
 Onze open source projecten zijn te pip installen via [PyPi](https://pypi.org/manage/projects/) :

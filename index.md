@@ -14,5 +14,6 @@ Het Data en Innovatielab staat samen met de diverse bedrijfsvoeringdirecties van
 
 
 
-<!-- Include dilab.html here -->
+<!-- Include dilab.html here 
 <object type="text/html" data="dilab.html" width="1600px" height="220px"></object>
+-->
