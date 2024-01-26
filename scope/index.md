@@ -11,6 +11,10 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 
 
 
+<br> 
+<img src="figs/focus_dilab.png" width="100%" border="0" alt="">
+<br>
+
 
 
 <html>
@@ -125,10 +129,6 @@ for (i = 0; i < coll.length; i++) {
 </body>
 </html>
 
-
-<br> 
-<img src="figs/focus_dilab.png" width="100%" border="0" alt="">
-<br>
 
 
 ## Werkwijze
