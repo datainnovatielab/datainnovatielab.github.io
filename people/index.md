@@ -18,86 +18,86 @@ op verschillende aandachtsgebieden die IenW direct helpen.
 
 <table border="0">
     <tr>
-        <td>
+        <td><center><center>
             <img src="photos/ET.jpg" alt="Afbeelding 1" width="100"><br>
-            [Erdogan Taskesen](https://nl.linkedin.com/in/erdogant)\n(Afdelings hoofd)
-        </td>
-        <td>
+            [Erdogan Taskesen](https://nl.linkedin.com/in/erdogant)
+	</center></td>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 2" width="100"><br>
             Naam 2
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 3" width="100"><br>
             Naam 3
-        </td>
+        </td></center>
     </tr>
 
     <br>
     
     <tr>
-        <td>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 4" width="100"><br>
             Naam 4
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 5" width="100"><br>
             Naam 5
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 6" width="100"><br>
             Naam 6
-        </td>
+        </td></center>
     </tr>
 
     <br>
     
     <tr>
-        <td>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 7" width="100"><br>
             Naam 7
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 8" width="100"><br>
             Naam 8
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 9" width="100"><br>
             Naam 9
-        </td>
+        </td></center>
     </tr>
 
     <br>
     
     <tr>
-        <td>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 10" width="100"><br>
             Naam 10
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 11" width="100"><br>
             Naam 11
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 12" width="100"><br>
             Naam 12
-        </td>
+        </td></center>
     </tr>
 
     <br>
     
     <tr>
-        <td>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 13" width="100"><br>
             Naam 13
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 14" width="100"><br>
             Naam 14
-        </td>
-        <td>
+        </td></center>
+        <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 15" width="100"><br>
             Naam 15
-        </td>
+        </td></center>
     </tr>
 </table>
 
