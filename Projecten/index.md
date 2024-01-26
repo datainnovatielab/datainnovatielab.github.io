@@ -57,14 +57,6 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 <body>
 
 
-<button class="collapsible">Kennisdeling en Onderzoek</button>
-<div class="content">
-  <p><br>
-	Het delen van kennis is enerzijds voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, daarnaast zullen wij vanuit het Data en Innovatielab ook aan kennisproducten werken, denk aan Hackatons maar ook het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie. Binnen het team hebben wij ook een onderzoekstak waar wij samen met Hogescholen en Universiteiten onderzoek doen naar relevante vraagstukken binnen de kaders van IenW.
-  </p>
-</div>
-
-
 <button class="collapsible">Data Platform</button>
 <div class="content">
   <p><br>
@@ -95,6 +87,18 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 </p>
 </div>
 
+
+<button class="collapsible">Kennisdeling en Onderzoek</button>
+<div class="content">
+  <p><br>
+	Het delen van kennis is enerzijds voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, daarnaast zullen wij vanuit het Data en Innovatielab ook aan kennisproducten werken, denk aan Hackathons maar ook het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie. Binnen het team hebben wij ook een onderzoekstak waar wij samen met Hogescholen en Universiteiten onderzoek doen naar relevante vraagstukken binnen de kaders van IenW.
+
+	Bij het uitvoeren van projecten kan het Data en Innovatielab ook expirementeren met nieuwe technieken en standaarden, zodat onderbouwde vragen voor ontbrekende functionaliteit in het huidige aanbod gesteld kunnen worden en bij gebleken geschiktheid kunnen leiden tot nieuwe standaard bouwstenen (uniformeren/ standaardiseren) en te helpen om deze uiteindelijk naar productie te krijgen. 
+
+	Tot slot verspreidt DI-Lab actief de opgedane kennis en inspiratie op het gebied van data science door het geven van workshops, lezingen en opleidingen en het bieden van werkervaringsplaatsen.
+
+  </p>
+</div>
 
 
 <script>
@@ -128,10 +132,6 @@ for (i = 0; i < coll.length; i++) {
 Het Data en Innovatielab volgt het vastgestelde proces van innoveren, uniformeren en produceren waarbij het een belangrijke bijdrage levert aan het innoveren en uniformeren (standaardiseren). 
 
 DI-Lab voert projecten uit die in een relatief kort tijdsbestek nieuwe technieken zichtbaar en voelbaar maken voor de opdrachtgever, inclusief wat ze kunnen betekenen voor het werk van IenW en de service voor de gebruiker van onze netwerken (innoveren). Het resultaat van deze projecten is een zogenaamd Proof of Concepts (PoC’s), Minimum Viable Product (MVP), een advies en/of een kennisproduct. Deze vormen een uitgangspunt voor verdere ontwikkeling binnen de IenE. 
-
-
-Bij het uitvoeren van projecten experimenteert DI-Lab met nieuwe technieken en standaarden, zodat onderbouwde vragen voor ontbrekende functionaliteit in het huidige aanbod gesteld kunnen worden en bij gebleken geschiktheid kunnen leiden tot nieuwe standaard bouwstenen (uniformeren/ standaardiseren) en te helpen om deze uiteindelijk naar productie te krijgen.  
-Tot slot verspreidt DI-Lab actief de opgedane kennis en inspiratie op het gebied van data science door het geven van workshops, lezingen en opleidingen en het bieden van werkervaringsplaatsen.
 
 De werkwijze bij DI-Lab is agile, dat wil zeggen dat projecten zoveel mogelijk worden belegd in één van de scrum teams van DI-Lab. De werkzaamheden worden gestart met een kick-off en uitgevoerd in een aantal sprints met een refinementsessie, sprintplanning, retrospectives, tussentijdse demo’s en afgesloten met een eindpresentatie. Richtlijn is dat een PoC-project initieel niet meer dan 3 maanden mag kosten om tot een eerste resultaat te komen. Uitzonderingen zijn bijvoorbeeld projecten die worden uitgevoerd middels een inkoop op productbasis, een adviesproject waarin iemand van DI-Lab participeert in een projectteam van de opdrachtgever of evenementen met inhoudelijke inbreng over data science, al dan niet georganiseerd door DI-Lab.
 
