@@ -92,9 +92,9 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 <div class="content">
   <p><br>
 	Het delen van kennis is enerzijds voor betere bewustwording hoe data en nieuwe technieken kunnen helpen in projecten, daarnaast zullen wij vanuit het Data en Innovatielab ook aan kennisproducten werken, denk aan Hackathons maar ook het toezien op het verantwoordelijk gebruik van artificiële intelligentie (AI) binnen de organisatie. Binnen het team hebben wij ook een onderzoekstak waar wij samen met Hogescholen en Universiteiten onderzoek doen naar relevante vraagstukken binnen de kaders van IenW.
-
+	<br>
 	Bij het uitvoeren van projecten kan het Data en Innovatielab ook expirementeren met nieuwe technieken en standaarden, zodat onderbouwde vragen voor ontbrekende functionaliteit in het huidige aanbod gesteld kunnen worden en bij gebleken geschiktheid kunnen leiden tot nieuwe standaard bouwstenen (uniformeren/ standaardiseren) en te helpen om deze uiteindelijk naar productie te krijgen. 
-
+	<br>
 	Tot slot verspreidt DI-Lab actief de opgedane kennis en inspiratie op het gebied van data science door het geven van workshops, lezingen en opleidingen en het bieden van werkervaringsplaatsen.
 
   </p>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentaties
-excerpt: "Presentaties"
+title: Taken
+excerpt: "Taken"
 image:
 feature: sample-image-2.jpg
 ---
