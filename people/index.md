@@ -18,9 +18,9 @@ op verschillende aandachtsgebieden die IenW direct helpen.
 
 <table border="0">
     <tr>
-        <td><center><center>
+        <td><center>
             <img src="photos/ET.jpg" alt="Afbeelding 1" width="100"><br>
-            [Erdogan Taskesen](https://nl.linkedin.com/in/erdogant)
+            <a href="https://nl.linkedin.com/in/erdogant" target="_blank">Erdogan Taskesen</a>
 	</center></td>
         <td><center>
             <img src="photos/people_logo.jpg" alt="Afbeelding 2" width="100"><br>
