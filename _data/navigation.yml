@@ -2,17 +2,20 @@
 - title: Home
   url: /
 
-- title: Curriculum Vitae
-  url: /cv/
+- title: People
+  url: /people/
 
-- title: Publications
-  url: /publications/
+- title: Projecten
+  url: /Projecten/
 
-- title: Blogs
-  url: /blogs/
+- title: Presentaties
+  url: /presentaties/
 
-- title: Scientific Posters
-  url: /posters/
+- title: Business Intelligence
+  url: /Business Intelligence/
+
+- title: Data Science
+  url: /Data Science/
 
 - title: Software
   url: /software/

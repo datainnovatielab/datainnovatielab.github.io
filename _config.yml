@@ -1,30 +1,31 @@
 # Site wide configuration
 
-title: Erdogan Taskesen
+title: Data en Innovatielab
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Erdogan Taskesen
+  name: Data en Innovatielab
   avatar: bio-photo.jpg
-  bio: "Data Scientist in Statistical Machine Learning"
-  email: erdogant@gmail.com
+  bio: "Ministerie van Infrastructuur en Waterstaat"
+  email: erdogan.taskesen@minienw.nl
   # Do not include the @ symbol in your Twitter username
-  twitter: 
-  linkedin: erdogant
-  github: erdogant
-  orcid: 0000-0002-3430-9618
-  medium: erdogant
-  stackoverflow: 13730780/erdogant
-  gumroad: erdogant
+  twitter: #username
+  linkedin: #username
+  github: datainnovatielab
+  gitlab: datainnovatielab
+  orcid: #username
+  medium: #username
+  stackoverflow: #username
+  gumroad: #username
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: 2fG38AkAAAAJ
+    scholar: #username
   facebook: #username
   instagram: #username
   bing-verify:
