@@ -34,74 +34,73 @@ op verschillende aandachtsgebieden die IenW direct helpen.
             <a href="https://nl.linkedin.com/in/erdogant" target="_blank">Erdogan Taskesen</a>
         </td>
         <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 2" width="100"><br>
-            Naam 2
+            <img src="https://media.licdn.com/dms/image/D4E03AQG220xFt-JgFA/profile-displayphoto-shrink_200_200/0/1676230383427?e=1711584000&v=beta&t=8OlwjQPDTQh2YMGg0cDY0ChQYDSCJaHcZzKpfTWorOA" alt="Afbeelding 2" width="100"><br>
+            Angie Munshi
         </td>
         <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 3" width="100"><br>
-            Naam 3
+            <img src="https://media.licdn.com/dms/image/C4D03AQHdwpcee3eTZQ/profile-displayphoto-shrink_200_200/0/1516956560558?e=1711584000&v=beta&t=_DEmLX_0l24BBzUZuiJAkWaQOClV5EhEfaCv0JwxWlo" alt="Afbeelding 3" width="100"><br>
+            Tijn Schouten
         </td>
     </tr>
 
     <tr>
+        <td>
+            <img src="https://media.licdn.com/dms/image/C4D03AQEX19qy54dftw/profile-displayphoto-shrink_200_200/0/1516313333704?e=1711584000&v=beta&t=iBeuUT6O26SKSk1Mz6eMZ44VJCC--2nIy45DMWEKB5I" alt="Afbeelding 6" width="100"><br>
+            Edwin van Bentum
+        </td>
+        <td>
+            <img src="https://media.licdn.com/dms/image/D4E03AQE8mCbuAht1Tg/profile-displayphoto-shrink_100_100/0/1693216624203?e=1711584000&v=beta&t=S6uOq3FMQjf1cyfrLu7zqa38ocWlmsiQglCwISIMnvE" alt="Afbeelding 7" width="100"><br>
+            Iain van Toor
+        </td>
         <td>
             <img src="photos/people_logo.jpg" alt="Afbeelding 4" width="100"><br>
-            Naam 4
-        </td>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 5" width="100"><br>
-            Naam 5
-        </td>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 6" width="100"><br>
-            Naam 6
+            Ton Flick
         </td>
     </tr>
 
     <tr>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 7" width="100"><br>
-            Naam 7
-        </td>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 8" width="100"><br>
-            Naam 8
-        </td>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 9" width="100"><br>
-            Naam 9
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 10" width="100"><br>
-            Naam 10
-        </td>
-        <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 11" width="100"><br>
-            Naam 11
-        </td>
         <td>
             <img src="photos/people_logo.jpg" alt="Afbeelding 12" width="100"><br>
-            Naam 12
+            Jan Perdaan
+        </td>
+        <td>
+            <img src="https://media.licdn.com/dms/image/C5603AQFpwZl3gqVMRw/profile-displayphoto-shrink_200_200/0/1636044387986?e=1711584000&v=beta&t=qwtJs1H098gn9Fb4m7-ByRwGxB7NPjfaB84FxM3lIb4" alt="Afbeelding 5" width="100"><br>
+            Kimberley Huijskens (Trainee)
+	</td>
+        <td>
+            <img src="https://media.licdn.com/dms/image/C4E03AQH1oiQahsj8Cw/profile-displayphoto-shrink_200_200/0/1629994542173?e=1711584000&v=beta&t=K6Q9ZmA47gLSnFi7kVvXmDHSmOr5zETJCBzrG1ubeT0" alt="Afbeelding 9" width="100"><br>
+            Jos Zuijderwijk (PhD Student)
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            <img src="photos/people_logo.jpg" alt="Afbeelding 8" width="100"><br>
+            Peter (Stagair)
+	</td>
+        <td>
+            <img src="https://media.licdn.com/dms/image/D4E03AQF1IZl_Cc5gbw/profile-displayphoto-shrink_200_200/0/1689347104145?e=1711584000&v=beta&t=BOvCkWtmxmXTD1gMoLm-KECwWc8kwsliJLc1T1fsIgY" alt="Afbeelding 10" width="100"><br>
+            Jeffrey Manders (Extern)
+        </td>
+        <td>
+            <img src="https://media.licdn.com/dms/image/C4D03AQF-58QWBGs8vQ/profile-displayphoto-shrink_200_200/0/1649775255333?e=1711584000&v=beta&t=Njn42YrV1KBwqHGEzyaUYSr0FFH-AIBMUrHRVjhIncM" alt="Afbeelding 11" width="100"><br>
+            Bastiaan vd Palen (Extern)
         </td>
     </tr>
 
     <tr>
         <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 13" width="100"><br>
-            Naam 13
+            <img src="photos/people_logo.jpg" alt="Afbeelding 8" width="100"><br>
+            Stefano Broekhuizen (Extern)
         </td>
         <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 14" width="100"><br>
-            Naam 14
         </td>
         <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 15" width="100"><br>
-            Naam 15
         </td>
     </tr>
+
+
 </table>
 
 
