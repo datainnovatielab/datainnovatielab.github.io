@@ -19,22 +19,20 @@ feature: sample-image-2.jpg
 </section><!-- /#table-of-contents -->
 
 
-A small selection of my open-source projects that can be found on my github page:
+Wij proberen zoveel mogelijk op en source te programmeren. Dit zijn onze open source projecten die te pip installen zijn via [pypi](https://pypi.org/manage/projects/) :
 
 ---
 
-[d3blocks](https://d3blocks.github.io/d3blocks/) D3Blocks builts on the graphics of D3 Javascript to create the most visually attractive and useful charts with only a few lines of Python code.
 
-[distfit](https://erdogant.github.io/distfit/) is for probability density function fitting of univariate distributions of non-censored data.
 
-[findpeaks](https://erdogant.github.io/findpeaks/)  is Python package for the detection of peaks and valleys in 1 dimensional vectors and (2D) images.
 
-[bnlearn](https://erdogant.github.io/bnlearn/) is for learning the graphical structure of Bayesian networks in Python.
+[anonym](https://anonym-datainnovatielab-public-3ae525a7078644e2013f2d5d2c9a0825.gitlab.io/) Python package anonym.
 
-[hgboost](https://erdogant.github.io/hgboost/) is to minimize the function for xgboost, catboost or lightboost over a hyper-parameter space by using cross-validation, and evaluating the results on an independent validation set. hgboost can be applied for classification and regression tasks.
+[djangotextsplitter ](https://gitlab.com/datainnovatielab/public/djangotextsplitter) This package allows the pdftextsplitter engine to communicate with a Django-database.
 
-[classeval](https://erdogant.github.io/classeval/) is to evaluate the models performance for any kind of two-class or multi-class model.
+[deltatextsplitter ](https://gitlab.com/datainnovatielab/public/deltatextsplitter)  This packages can efficiently measure the text structure recognition capabilities ofn pdftextsplitter.
 
-[hnet](https://erdogant.github.io/hnet/) stands for graphical Hypergeometric NEtworks, which is a method where associations across variables are tested for significance by statistical inference.
+[pdftextsplitter ](https://gitlab.com/datainnovatielab/public/pdftextsplitter) This packages can read PDF documents and automatically recognise chapter-titles, enumerations and other elements in the text and summarize the document part-by-part.
+
 
 ---

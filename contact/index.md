@@ -8,10 +8,5 @@ image:
 
 **Erdogan Taskesen**
 
-Rijkswaterstaat, Datalab
+IenW, Data en Innovatielab
 
-Email: [erdogant at gmail.com](mailto:erdogant at gmail.com)
-
-
-<div class="github-card" data-github="erdogant" data-width="400" data-height="150" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
