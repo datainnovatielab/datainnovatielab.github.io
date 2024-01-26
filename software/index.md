@@ -19,7 +19,9 @@ feature: sample-image-2.jpg
 </section><!-- /#table-of-contents -->
 
 
-Wij programmeren zoveel mogelijk open source! Dit zijn onze open source projecten die te pip installen zijn via [pypi](https://pypi.org/manage/projects/) :
+Wij programmeren zoveel mogelijk open source! Om zoveel mogelijk te uniformeren maken wij gebruik van de IenW programmeer standaarden die bij RWS Datalab ontwikkeld zijn. Hierdoor kan code en kennis gemakkelijk onderling uitgewisseld worden omdat dezelfde style en randvoorwaarden gebruikt worden.
+
+Onze open source projecten zijn te pip installen via [PyPi](https://pypi.org/manage/projects/) :
 
 ---
 

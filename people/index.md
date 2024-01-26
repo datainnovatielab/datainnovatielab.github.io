@@ -6,10 +6,10 @@ excerpt: "People"
 
 See [linkedin](https://nl.linkedin.com/in/erdogant) for my full resume.
 
-Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees, Stagairs, PhD student(en) en Externe medewerkers.
+Het Data en Innovatielab is een dynamisch team van vaste medewerkers, Trainnees, Stagairs, PhD student(en) en Externe medewerkers.
+Met team werken wij aan use-cases in de focus gebieden van Business Intelligence, Data Science, No code/Low code maar ook wetenschappelijk onderzoek
+op verschillende aandachtsgebieden die IenW direct helpen.
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,11 +21,11 @@ Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees
 <table border="0">
     <tr>
         <td>
-            <img src="photos/people_logo.jpg" alt="Afbeelding 1" width="100"><br>
-            Naam 1
+            <img src="photos/ET.jpg" alt="Afbeelding 1" width="100"><br>
+            Erdogan Taskesen (Afd.hoofd en Data Scientist)
         </td>
         <td>
-            <img src="link_naar_afbeelding2.png" alt="Afbeelding 2" width="100"><br>
+            <img src="photos/people_logo.jpg" alt="Afbeelding 2" width="100"><br>
             Naam 2
         </td>
         <td>
@@ -33,6 +33,9 @@ Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees
             Naam 3
         </td>
     </tr>
+
+    <br>
+    
     <tr>
         <td>
             <img src="link_naar_afbeelding4.png" alt="Afbeelding 4" width="100"><br>
@@ -47,6 +50,9 @@ Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees
             Naam 6
         </td>
     </tr>
+
+    <br>
+    
     <tr>
         <td>
             <img src="link_naar_afbeelding7.png" alt="Afbeelding 7" width="100"><br>
@@ -61,6 +67,9 @@ Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees
             Naam 9
         </td>
     </tr>
+
+    <br>
+    
     <tr>
         <td>
             <img src="link_naar_afbeelding10.png" alt="Afbeelding 10" width="100"><br>
@@ -75,6 +84,9 @@ Het Data en Innovatielab is een dynamische club van vaste medewerkers, Trainnees
             Naam 12
         </td>
     </tr>
+
+    <br>
+    
     <tr>
         <td>
             <img src="link_naar_afbeelding13.png" alt="Afbeelding 13" width="100"><br>
