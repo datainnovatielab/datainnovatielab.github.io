@@ -7,7 +7,6 @@ feature: sample-image-2.jpg
 ---
 
 
-
 <section id="table-of-contents" class="toc">
   <header>
     <h3>Overview</h3>
@@ -19,26 +18,81 @@ feature: sample-image-2.jpg
 </section><!-- /#table-of-contents -->
 
 
-Een overzicht van de presentaties die gegeven zijn door het Data en Innovatielab is als volgt:
+
+Alle uitgevoerde projecten vallen onder een van deze onderdelen.
+<img src="figs/directies.png" width="100%" border="0" alt="">
 
 ---
 
-## Jan 2024
+## Luchtvaart en Maritiem
 
-1. Taskesen E, [**HNet: Graphical Hypergeometric Networks**](/papers/2020 - Taskesen et al - HNet Hypergeometric Networks.pdf). arXiv.org, 2020, arXiv:2005.04679
-
----
-
-## Feb 2024
-
-1. Karlsson Linnér R,..., Taskesen E,...,Beauchamp JP. **Genome-wide association analyses of risk tolerance and risky behaviors in over 1 million individuals identify hundreds of loci and shared genetic influences**. Nat Genet. 2019 Feb;51(2):245-257. doi: 10.1038/s41588-018-0309-3. Epub 2019 Jan 14. PubMed PMID: 30643258; PubMed Central PMCID: PMC6713272.
-
+Het directoraat-generaal Luchtvaart en Maritieme Zaken (DGLM) is
+een van de vier beleidsdirectoraten-generaal binnen het ministerie
+van Infrastructuur en Waterstaat. Het directoraat-generaal bestaat
+uit een directie Luchtvaart, een directie Maritieme Zaken en een
+programma Luchtvaart.
 
 ---
 
-## 2023
+## Milieu en Internationaal
 
-1. Taskesen E, [**HNet: Graphical Hypergeometric Networks**](/papers/2020 - Taskesen et al - HNet Hypergeometric Networks.pdf). arXiv.org, 2020, arXiv:2005.04679
-2. Iain
+Het directoraat-generaal Milieu en Internationaal (DGMI) bevordert
+een gezonde, veilige, schone en duurzame leefomgeving. De meest in
+het oog springende nationale onderwerpen zijn: circulaire economie,
+luchtkwaliteit, geluid, statiegeld, afval, vuurwerk, stoffenbeleid,
+nucleaire veiligheid, asbest, basisnet, biotechnologie, het stelsel van
+vergunningverlening, handhaving en toezicht (VTH) en het Nationaal
+milieuprogramma. 
+
+
+---
+
+## Mobiliteit
+
+Het directoraat-generaal Mobiliteit (DGMo) heeft als doel om de
+netwerkkwaliteit van spoorwegen alsmede het wegennet verder
+te ontwikkelen evenals het veilige en duurzame gebruik daarvan
+door reizigers en de transportsector te waarborgen. Daarmee wordt
+bijgedragen aan de economische en ruimtelijke ontwikkeling van
+Nederland binnen de condities van leefbaarheid en veiligheid. Dit
+doet DGMo op een integrale manier, van modaliteit naar mobiliteit
+
+---
+
+## Water en Bodem
+
+Het directoraat-generaal Water en Bodem (DGWB) zorgt samen met
+anderen voor de bescherming van Nederland tegen hoogwater, voor
+een verantwoord (mede-)gebruik en ruimtelijke ordening van de zee
+en voor een duurzaam en veilig gebruik van het water-bodemsysteem
+dat bestand is tegen wateroverlast en droogte en blijvend kan voorzien
+in de juiste hoeveelheid water, van de juiste kwaliteit, op de juiste
+plaats. We geven richting en invulling aan klimaatadaptatie door
+de (internationale) klimaatopgaven te vertalen naar uitvoerbaar en
+toekomstbestendig beleid als sturend fundament voor de inrichting van
+de fysieke leefomgeving. Zo dragen we bij aan een veilig, leefbaar en
+bereikbaar Nederland. 
+
+---
+
+## Concerndirectie informatiebeleid
+
+Financiën en Integrale Bedrijfsvoering (FIB) is de gezamenlijke naam
+voor alle bedrijfsvoeringsdirecties van IenW. Onder FIB vallen de
+concerndirecties Bedrijfsvoering die een IenW-breed verantwoordelijke
+zijn voor het ontwikkelen, ontwerpen en implementeren van
+Bedrijfsvoeringsbeleid en -kaders. Ook valt onder FIB de directie
+Uitvoering, Decentraal Advies en Control die verantwoordelijk is voor
+de uitvoerende taken van de bedrijfsvoering voor de Bestuurskern van
+IenW en (deels) voor de agentschappen. 
+
+---
+
+## Directie Informatie en Exploitatie
+
+Directie Informatie en Exploitatie is verantwoordelijk voor alle vormen
+van dienstverlening op ICT-gebied van gebruikersondersteuning en
+beheer via leveranciersmanagement en projectuitvoering tot en met
+(strategisch) advies;
 
 ---
