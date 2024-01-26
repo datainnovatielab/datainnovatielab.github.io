@@ -4,8 +4,6 @@ title: People
 excerpt: "People"
 ---
 
-See [linkedin](https://nl.linkedin.com/in/erdogant) for my full resume.
-
 Het Data en Innovatielab is een dynamisch team van vaste medewerkers, Trainnees, Stagairs, PhD student(en) en Externe medewerkers.
 Met team werken wij aan use-cases in de focus gebieden van Business Intelligence, Data Science, No code/Low code maar ook wetenschappelijk onderzoek
 op verschillende aandachtsgebieden die IenW direct helpen.
@@ -22,7 +20,7 @@ op verschillende aandachtsgebieden die IenW direct helpen.
     <tr>
         <td>
             <img src="photos/ET.jpg" alt="Afbeelding 1" width="100"><br>
-            Erdogan Taskesen\n(Afdelings hoofd)
+            [Erdogan Taskesen](https://nl.linkedin.com/in/erdogant)\n(Afdelings hoofd)
         </td>
         <td>
             <img src="photos/people_logo.jpg" alt="Afbeelding 2" width="100"><br>
