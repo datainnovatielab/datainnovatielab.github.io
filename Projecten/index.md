@@ -101,9 +101,3 @@ beheer via leveranciersmanagement en projectuitvoering tot en met
 
 ---
 
-## Intakes
-
-
-<!-- Include dilab.html here 
-<object type="text/html" data="dilab.html" width="1600px" height="220px"></object>
--->
