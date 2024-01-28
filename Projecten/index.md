@@ -20,8 +20,8 @@ feature: sample-image-2.jpg
 
 
 Alle uitgevoerde projecten vallen onder een van de onderstaande directie onderdelen.<br>
-Download het intake formulier [hier](https://gitlab.com/datainnovatielab/intakes/intakeformulieren/-/blob/main/intakes/intake_DI_Lab_template.docx?ref_type=heads).
-Alle intakes kunnen [hier](https://gitlab.com/datainnovatielab/intakes/intakeformulieren/-/blob/main/intakes/intake_DI_Lab_template.docx?ref_type=heads) ingezien worden.
+Download het intake formulier [hier](https://gitlab.com/datainnovatielab/intakes/intakeformulieren/-/blob/main/docs/pages/intakes/intake_DI_Lab_template.docx?ref_type=heads).
+Zie [hier](https://datainnovatielab.gitlab.io/intakes/intakeformulieren/intakes/intakes.html) de uitgevoerde intakes.
 
 
 <img src="figs/directies.png" width="100%" border="0" alt="">
