@@ -7,7 +7,7 @@ feature: sample-image-2.jpg
 ---
 
 
-De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de directies wat samen te vatten is in de activiteiten op het gebied van data/opslag tezamen met innovatie en modernisering. Wij organiseren dit in de toekomst centraal vanuit het Data en Innovatielab. De scope van het Data en Innovatielab omvat de volgende aandachtsgebieden:
+De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de directoraten-generaal (DGs) en de bestuurskern wat samen te vatten is in de activiteiten op het gebied van data science en business intelligence. De scope van het Data en Innovatielab omvat de volgende aandachtsgebieden:
 
 
 
@@ -74,14 +74,6 @@ De scope van Data en Innovatielab is gebaseerd op zowel de behoeften vanuit de d
 <div class="content">
   <p><br>
 	Ontdekken van patronen in grote hoeveelheden ongestructureerde teksten met tekstmining en/of op gestructureerde data sets op basis van sensorgegevens (IoT) tbv monitoren en voorspellen van prestaties van (deel)objecten en het ontwikkelen van rapportages. Daarnaast ook bijvoorbeeld het automatisch kwantificeren aan de hand van video en beeldmateriaal ter ondersteuning aan beleidsdoelen (Beeldherkenning). Tot slot het analyseren en ontdekken van patronen in workflows en processen door data te combineren met organisatorische gegeven (procesmining)
-</p>
-</div>
-
-
-<button class="collapsible">No code/ Low code</button>
-<div class="content">
-  <p><br>
-	Het gebruik van no code en low code ontwikkelingsplatforms biedt IenE de mogelijkheid om applicaties en workflows te ontwikkelen zonder diepgaande programmeerkennis. Met deze benaderingen kan DI-Lab snel en efficiënt oplossingen bouwen en aanpassen aan de specifieke behoeften. Dit vergroot de productiviteit en wendbaarheid omdat wij op deze manier niet volledig afhankelijk zijn van traditionele softwareontwikkelingscycli. De no code/low code ontwikkelingen zijn bij start niet direct gekoppeld aan het cloud platform.
 </p>
 </div>
 
